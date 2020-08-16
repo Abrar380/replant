@@ -1,0 +1,87 @@
+body {
+  font-family: Montserrat;
+  font-weight: 300;
+
+  }
+
+.custom-color {
+  background-color: green;
+}
+
+.brand-name {
+  font-size: 2.8rem;
+  font-family: Pangolin;
+  font-weight: 900;
+}
+
+.first-div {
+  text-align: center;
+  margin: 10%;
+  line-height: 3.5rem;
+  padding-bottom: 300px;
+  /* padding-top: 60px; */
+  display: inline-block;
+  /* max-width: 100%; */
+  max-width: 40%;
+  /* margin-left: 10%; */
+
+}
+
+#title {
+  background: url(../images/Planting.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  color: white;
+  height: 800px;
+}
+
+#heading {
+  font-weight: 100;
+  line-height: 5rem;
+}
+
+h1 {
+  font-size: 3.5rem;
+  padding-bottom: 50px;
+}
+
+.second-div {
+  /* margin-top: 3%; */
+  background-color: #96bb7c;
+  padding: 1.5%;
+  padding-bottom: 20%;
+  line-height: 1.8rem;
+  padding-left: 8%;
+  padding-right: 8%;
+}
+.form-width {
+  display: inline-block;
+  width: 40%
+}
+.btn-lg {
+  font-size: 17px;
+}
+
+.form-control-lg {
+  font-size: 17px;
+  margin-right: 10px;
+}
+.first-form {
+  padding-left: 30%;
+  padding-top: 40px;
+}
+
+#head2 {
+  padding-top: 35px;
+  padding-bottom: 25px;
+  text-align: center;
+
+}
+#head3 {
+  padding-bottom: 25px;
+  padding-top: 1%;
+  text-align: center;
+}
+.badam {
+  font-family: Montserrat;
+}
